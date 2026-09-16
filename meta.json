@@ -1,0 +1,23 @@
+{
+  "repo": "visio-2026-professional",
+  "product": "Visio 2026 Professional",
+  "kind": "productivity",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "diagrams",
+  "topics": [
+    "visio-professional",
+    "process-map-desk",
+    "stencil-shape-tools",
+    "visio-windows",
+    "diagram-2026",
+    "how-to-install-visio",
+    "visio-desktop-package",
+    "data-legend-suite",
+    "container-layer-tools",
+    "visio-diagram-guide"
+  ],
+  "site": "toolix.me"
+}
